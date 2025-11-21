@@ -1,4 +1,5 @@
 🏨 HOSTEL MANAGEMENT SYSTEM (C Programming)
+
 📄 ABSTRACT
 
 The Hostel Management System is a terminal-based application written in C that allows users to efficiently manage hostel accommodation records.
@@ -9,6 +10,7 @@ All records are stored persistently in a binary file (hostel.txt) ensuring the d
 This project demonstrates key C programming concepts including structures, file handling, control flow, loops, and modular programming, making it suitable for beginners, academic projects, and practical learning.
 
 ✨ FEATURES
+
 Core Functionalities
 
 ➕ Add new hostel resident records (Room No, Name, Age, Course, Mobile No)
@@ -23,6 +25,7 @@ Core Functionalities
 ⚠️ Includes basic input validation & error handling
 
 🛠️ TECHNICAL REQUIREMENTS
+
 System Requirements
 
 Operating System: Windows / Linux / macOS
@@ -115,7 +118,9 @@ Shows clear success/error messages
 
 ▶️ Running the Program
 1️⃣ Compile
+bash
 gcc hostel.c -o hostel
+
 
 2️⃣ Run
 Linux / macOS
