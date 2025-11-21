@@ -117,7 +117,7 @@ Exit option included
 Shows clear success/error messages
 
 ▶️ Running the Program
-<img width="998" height="595" alt="image" src="https://github.com/user-attachments/assets/f83c9563-c77f-4717-88c8-93610ad31547" />
+<img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/7e531252-4487-4c03-a581-1a580d7eda30" />
 
 
 3️⃣ Data File
