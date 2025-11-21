@@ -1,4 +1,5 @@
 🏨 HOSTEL MANAGEMENT SYSTEM (C Programming)
+
 📄 ABSTRACT
 
 The Hostel Management System is a terminal-based application written in C that allows users to efficiently manage hostel accommodation records.
@@ -130,26 +131,34 @@ Automatically creates hostel.txt
 
 Stores all resident data in binary form
 
-📸 Screenshots (Optional)
+📸 Screenshots 
 
 Add Resident
+
 <img width="438" height="391" alt="Screenshot 2025-11-21 095845" src="https://github.com/user-attachments/assets/29963e40-938a-452d-b950-ffa47ed30aa7" />
 
 
 Display Residents
-(Add screenshot)
+
+<img width="378" height="384" alt="Screenshot 2025-11-21 100248" src="https://github.com/user-attachments/assets/596017d5-3dc5-42b1-939b-445aba6e3d3f" />
+
+
 
 Search Resident
-(Add screenshot)
 
-Update Resident
-(Add screenshot)
+<img width="380" height="399" alt="Screenshot 2025-11-21 100344" src="https://github.com/user-attachments/assets/5c1c9027-eee9-468b-955d-30b2bdcaa4c9" />
 
-Delete Resident
-(Add screenshot)
+
+Vacate room
+
+<img width="353" height="312" alt="Screenshot 2025-11-21 100618" src="https://github.com/user-attachments/assets/228fb825-3744-487a-b240-21b410cc5428" />
+
+
 
 Exit
-(Add screenshot)
+
+<img width="586" height="267" alt="Screenshot 2025-11-21 100902" src="https://github.com/user-attachments/assets/bd537caf-7fa7-48ef-b6b7-3337a438041b" />
+
 
 📝 Author
 
