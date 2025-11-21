@@ -120,19 +120,28 @@ Stores all resident & room data in binary format
 
 ##📸 Screenshots (Optional)
 Add Resident
+<img width="437" height="391" alt="image" src="https://github.com/user-attachments/assets/ed5ea0d0-8fae-4573-99e0-7d22cdcfdc0d" />
+
 
 Display Residents
+<img width="377" height="383" alt="image" src="https://github.com/user-attachments/assets/a5cc718d-b315-4936-847b-0489bc675fd3" />
 
 
 Search Resident
+<img width="380" height="398" alt="image" src="https://github.com/user-attachments/assets/ba7b60e3-e133-4f36-9b23-890736cb2226" />
 
-Update Details
 
-Delete Record
+Vacate room 
+<img width="352" height="312" alt="image" src="https://github.com/user-attachments/assets/e4165aae-c463-4110-8b9e-9f51cfb0b507" />
+
+
+
 
 Exit Program
+<img width="586" height="267" alt="image" src="https://github.com/user-attachments/assets/3e3665cf-99e8-4a82-bbb4-f23233f326d4" />
 
-(Add your screenshots here when uploading to GitHub.)
+
+
 
 📝 Author
 P. Sasidhar
