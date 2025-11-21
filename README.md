@@ -152,6 +152,7 @@ Vacate room
 ![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100618.png?raw=true)
 
 Exit
+
 ![sctreenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100902.png?raw=true)
 
 📝 Author
