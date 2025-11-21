@@ -144,8 +144,11 @@ Display Residents
 
 Search Resident
 
+![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100344.png?raw=true)
+
 
 Update Resident
+
 
 Delete Resident
 
