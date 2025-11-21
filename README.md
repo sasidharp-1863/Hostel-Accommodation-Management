@@ -133,7 +133,7 @@ Stores all resident data in binary form
 📸 Screenshots 
 Add Resident
 
-
+![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20095845.png?raw=true)
 
 
 
