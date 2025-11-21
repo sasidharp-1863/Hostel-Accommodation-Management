@@ -118,10 +118,11 @@ Automatically creates hostel.txt
 
 Stores all resident & room data in binary format
 
-📸 Screenshots (Optional)
+##📸 Screenshots (Optional)
 Add Resident
 
 Display Residents
+
 
 Search Resident
 
