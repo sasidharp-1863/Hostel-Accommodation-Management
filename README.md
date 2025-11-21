@@ -1,5 +1,4 @@
 🏨 HOSTEL MANAGEMENT SYSTEM (C Programming)
-
 📄 ABSTRACT
 
 The Hostel Management System is a terminal-based application written in C that allows users to efficiently manage hostel accommodation records.
@@ -10,7 +9,6 @@ All records are stored persistently in a binary file (hostel.txt) ensuring the d
 This project demonstrates key C programming concepts including structures, file handling, control flow, loops, and modular programming, making it suitable for beginners, academic projects, and practical learning.
 
 ✨ FEATURES
-
 Core Functionalities
 
 ➕ Add new hostel resident records (Room No, Name, Age, Course, Mobile No)
@@ -25,7 +23,6 @@ Core Functionalities
 ⚠️ Includes basic input validation & error handling
 
 🛠️ TECHNICAL REQUIREMENTS
-
 System Requirements
 
 Operating System: Windows / Linux / macOS
@@ -117,9 +114,15 @@ Exit option included
 Shows clear success/error messages
 
 ▶️ Running the Program
+1️⃣ Compile
+gcc hostel.c -o hostel
 
-<img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/7e531252-4487-4c03-a581-1a580d7eda30" />
+2️⃣ Run
+Linux / macOS
+./hostel
 
+Windows
+hostel.exe
 
 3️⃣ Data File
 
@@ -127,30 +130,26 @@ Automatically creates hostel.txt
 
 Stores all resident data in binary form
 
-📸 Screenshots 
+📸 Screenshots (Optional)
+
 Add Resident
-
-![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20095845.png?raw=true)
-
+<img width="438" height="391" alt="Screenshot 2025-11-21 095845" src="https://github.com/user-attachments/assets/29963e40-938a-452d-b950-ffa47ed30aa7" />
 
 
 Display Residents
-
-![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100248.png?raw=true)
-
+(Add screenshot)
 
 Search Resident
+(Add screenshot)
 
-![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100344.png?raw=true)
+Update Resident
+(Add screenshot)
 
-
-Vacate room
-
-![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100618.png?raw=true)
+Delete Resident
+(Add screenshot)
 
 Exit
-
-![sctreenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100902.png?raw=true)
+(Add screenshot)
 
 📝 Author
 
