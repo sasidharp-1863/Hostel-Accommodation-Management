@@ -117,17 +117,8 @@ Exit option included
 Shows clear success/error messages
 
 ▶️ Running the Program
-1️⃣ Compile
-bash
-gcc hostel.c -o hostel
+<img width="998" height="595" alt="image" src="https://github.com/user-attachments/assets/f83c9563-c77f-4717-88c8-93610ad31547" />
 
-
-2️⃣ Run
-Linux / macOS
-./hostel
-
-Windows
-hostel.exe
 
 3️⃣ Data File
 
