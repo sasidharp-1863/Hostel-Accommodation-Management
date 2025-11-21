@@ -130,22 +130,22 @@ Automatically creates hostel.txt
 
 Stores all resident data in binary form
 
-📸 Screenshots (Optional)
-
+📸 Screenshots 
 Add Resident
-(Add your screenshot here)
+
+
+
+
+
 
 Display Residents
-(Add screenshot)
 
 Search Resident
-(Add screenshot)
+
 
 Update Resident
-(Add screenshot)
 
 Delete Resident
-(Add screenshot)
 
 Exit
 (Add screenshot)
