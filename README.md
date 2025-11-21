@@ -135,10 +135,9 @@ Add Resident
 
 ![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20095845.png?raw=true)
 
-
-
-
 Display Residents
+![screenshot](<img width="378" height="384" alt="Screenshot 2025-11-21 100248" src="https://github.com/user-attachments/assets/eb3fea31-0800-4759-90f9-0c6e628e5f08" />)
+
 
 Search Resident
 
