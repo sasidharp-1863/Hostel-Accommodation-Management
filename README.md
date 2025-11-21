@@ -135,6 +135,8 @@ Add Resident
 
 ![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20095845.png?raw=true)
 
+
+
 Display Residents
 ![screenshot](https://github.com/sasidharp-1863/Hostel-Accommodation-Management/blob/main/Screenshot%202025-11-21%20100248.png?raw=true)
 
