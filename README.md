@@ -64,22 +64,22 @@ This project demonstrates key C programming concepts including **structures**, *
 
 ---
 
-## 🏨 **Hostel Resident Operations**
+## 🏨 **Hostel Student Operations**
 
-## ➕ **Add Resident**
+## ➕ **Add Student**
 - Enter Room No, Name, Age, Course, Mobile No
 - Saved in `hostel.txt`
 
-### 📋**Display Residents**
+### 📋**Display Students**
 - Shows all hostel resident records in a clean table format
 
-### 🔍 **Search Resident**
+### 🔍 **Search Students**
 - Search using **unique Room Number**
 
-### ✏️ **Update Resident**
+### ✏️ **Update Student**
 - Modify Name, Age, Course, Mobile No, etc.
 
-### ❌ **Delete Resident**
+### ❌ **Delete Student**
 - Permanently removes a resident record using **temporary file method**
 
 ### 🔧 **DATA MANAGEMENT**
