@@ -14,31 +14,31 @@ This project demonstrates key C programming concepts including **structures**, *
  ## ✨ **FEATURES**
  
 ### **Core Functionalities**
--➕ **Add new hostel resident records** (Room No, Name, Age, Course, Mobile No)
--📋 **Display all resident records** in a formatted table
--🔍 **Search resident by Room Number**
--✏️ **Update existing resident information**
--❌ **Delete hostel resident records**
--💾 Persistent data storage using binary file (`hostel.txt`)
--🖥️ Fully terminal-based, menu-driven interface
--👨‍💻 Beginner-friendly modular code
--⚙️ Auto-creates the data file if missing
--⚠️ Includes basic input validation & error handling
-
+- ➕ **Add new hostel resident records** (Room No, Name, Age, Course, Mobile No)
+- 📋 **Display all resident records** in a formatted table
+- 🔍 **Search resident by Room Number**
+- ✏️ **Update existing resident information**
+- ❌ **Delete hostel resident records**
+- 💾 Persistent data storage using binary file (`hostel.txt`)
+- 🖥️ Fully terminal-based, menu-driven interface
+- 👨‍💻 Beginner-friendly modular code
+- ⚙️ Auto-creates the data file if missing
+- ⚠️ Includes basic input validation & error handling
+ 
 ---
 
 ## 🛠️ **TECHNICAL REQUIREMENTS**
 
 ### **System Requirements**
--Operating System: **Windows / Linux / macOS**
--Terminal or Command Prompt
--At least **4 MB RAM**
--Minimal disk space for `hostel.txt`
+- Operating System: **Windows / Linux / macOS**
+- Terminal or Command Prompt
+- At least **4 MB RAM**
+- Minimal disk space for `hostel.txt`
 
 ### **Software Requirements**
--C Compiler: **GCC / MinGW / Clang / MSVC**
--Code Editor or IDE: VS Code, Code::Blocks, Dev-C++, etc.
--Optional: **Make utility** (if using a Makefile)
+- C Compiler: **GCC / MinGW / Clang / MSVC**
+- Code Editor or IDE: VS Code, Code::Blocks, Dev-C++, etc.
+- Optional: **Make utility** (if using a Makefile)
 
 ### **Programming Requirements**
 - Language: **C**
