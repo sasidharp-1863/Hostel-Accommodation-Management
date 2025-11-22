@@ -98,7 +98,7 @@ This project demonstrates key C programming concepts including **structures**, *
 
 ### 1️⃣Compile
 ```bash
-gcc ostel.c -o student
+gcc hostel.c -o student
 ````
 
 ### 2️⃣ Run
