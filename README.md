@@ -3,7 +3,7 @@
 ## 📄 **ABSTRACT**
 
 The **Hostel Management System** is a terminal-based application written in **C** that allows users to manage student records efficiently.
-It provides essential functionalities such as **adding**,** viewing**, **searching**, **updating**, and deleting hostel resident details.
+It provides essential functionalities such as **adding**,**viewing**, **searching**, **updating**, and deleting hostel resident details.
 
 All records are stored persistently in a binary file (`hostel.txt`) ensuring the data remains saved across program runs.
 
